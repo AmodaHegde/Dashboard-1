@@ -14,6 +14,3 @@ Screenshots
 ![Dashboard Overview 1](https://github.com/AmodaHegde/Dashboard-1/blob/main/Screenshots/Screenshot%202024-12-11%20200228.png)
 ![Dashboard Overview 2](https://github.com/AmodaHegde/Dashboard-1/blob/main/Screenshots/Screenshot%202024-12-11%20200312.png)
 ![Dashboard Overview 3](https://github.com/AmodaHegde/Dashboard-1/blob/main/Screenshots/Screenshot%202024-12-11%20200346.png)
-
-Features:
-1. 
