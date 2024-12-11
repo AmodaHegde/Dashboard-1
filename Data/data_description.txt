@@ -1,1 +1,5 @@
-
+1. dim_date contains the columns: "date": Date in dd-mm-yy format , "mmm-yy": Month and year, "day_type": Weekday or Weekend
+2. dim_hotels contains the columns: "property_id", "property_name", "category": Hotel Category (2 Types), "city"
+3. dim_rooms: "room_id", "room_class": (4 Types)
+4. fact_bookings
+5. fact_aggregated_bookings
