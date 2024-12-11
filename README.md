@@ -9,3 +9,11 @@ Steps:
    c. Handled duplicate dates
 4. Feature Engineering: Added required metrics using the calculated formulae.
 5. Dashboarding using Power BI
+
+Screenshots
+![Dashboard Overview](Screenshots/[Screenshot 202024-12-11 20200228.png])
+![Dashboard Overview](Screenshots/[Screenshot 202024-12-11 20200312.png])
+![Dashboard Overview](Screenshots/[Screenshot 202024-12-11 20200346.png])
+
+Features:
+1. 
